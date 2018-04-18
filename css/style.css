@@ -124,25 +124,13 @@ body {
     border-radius: 2px;
 }
 
+.pixel-img:hover,
+.brouq-img:hover,
+.matching-img:hover,
 .decor-img:hover {
     opacity: .8;
 }
 
-.pixel-img:hover {
-    opacity: .8;
-}
-
-.linear-img:hover {
-    opacity: .8;
-}
-
-.vis-img:hover {
-    opacity: .8;
-}
-
-.flex-img:hover {
-    opacity: .8;
-}
 
 /*     Skill Section     */
 
